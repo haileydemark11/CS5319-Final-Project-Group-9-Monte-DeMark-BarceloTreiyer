@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ModelView:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ModelView_jar</output-path>
+    <root id="archive" name="ModelView.jar">
+      <element id="module-output" name="ModelView" />
+    </root>
+  </artifact>
+</component>

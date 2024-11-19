@@ -1,0 +1,17 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\matyt\Documents\School\CS5319-Final-Project-Group-9-Monte-DeMark-Treiyer\EventBased\Hangman_EventManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-23
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\matyt\Documents\School\CS5319-Final-Project-Group-9-Monte-DeMark-Treiyer\EventBased\Hangman_EventManager.exe"
+Args length:	124/32768 chars
+Exit code:	0
